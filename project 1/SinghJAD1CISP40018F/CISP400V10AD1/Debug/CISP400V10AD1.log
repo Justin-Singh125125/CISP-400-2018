@@ -1,0 +1,5 @@
+﻿  CISP400V10AD1.cpp
+  Employee.cpp
+c:\users\chaos\desktop\singhjad1cisp40018f\cisp400v10ad1\employee.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  CISP400V10AD1.vcxproj -> C:\Users\chaos\Desktop\SinghJAD1CISP40018F\Debug\CISP400V10AD1.exe
